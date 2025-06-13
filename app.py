@@ -617,7 +617,7 @@ with st.sidebar:
             <span style="margin-left:8px;vertical-align:middle;">Supreme Court</span>
         </a>
     """, unsafe_allow_html=True)
-    st.markdown('<div style="margin-top:2rem;font-size:0.95rem;color:#a5b4fc;">Made with ❤️ by Edunet Foundation</div>', unsafe_allow_html=True)
+    st.markdown('<div style="margin-top:2rem;font-size:0.95rem;color:#a5b4fc;">AI legal assistant</div>', unsafe_allow_html=True)
 
 # Add this to your sidebar CSS (if not already present)
 st.markdown("""
