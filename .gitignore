@@ -1,0 +1,63 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# PyCharm settings
+.idea/
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.pipenv/
+pip-wheel-metadata/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs and database files
+*.log
+*.sqlite3
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Secrets and environment files
+secrets.toml
+.env
+
+# Build, distribution, and packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+*.egg
+
+# Test & coverage reports
+.tox/
+.pytest_cache/
+.coverage
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+htmlcov/
+
+# Mypy & Pyre
+.mypy_cache/
+.pyre/
+
+# VS Code workspace backup
+*.code-workspace
+
+# Others you may not need but are safe to include
+*.iml
+*.swp
+*.swo
+
