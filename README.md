@@ -79,7 +79,7 @@ OPENROUTER_API_KEY = "sk-..."
 ## ▶️ Running the App
 
 ```sh
-streamlit run Legal_assist.py
+streamlit run app.py
 ```
 
 The app will open in your browser at [http://localhost:8501](http://localhost:8501).
